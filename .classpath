@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="C:/Users/swathi kavuri/Documents/semester 3/Web App Architeture/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swathi kavuri/Downloads/axis2-1.6.2.jar/axis2-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swathi kavuri/Downloads/axiom-impl-1.2.12.jar/axiom-impl-1.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swathi kavuri/Downloads/apache-axiom-api-1.2.7.jar/apache-axiom-api-1.2.7.jar"/>
+	<classpathentry kind="output" path="target"/>
+</classpath>

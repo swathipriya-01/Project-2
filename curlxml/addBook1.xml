@@ -1,0 +1,11 @@
+<ns1:addBook xmlns:ns1="http://waa.swin.edu.au"> 
+   <ns1:bookId>1</ns1:bookId>
+   <ns1:book>
+	  <ns1:title>ABC</ns1:title>
+	  <ns1:status>VIC</ns1:status>
+	  <ns1:publisher>Boroondara</ns1:publisher>
+	  <ns1:publishedDate>ABC</ns1:publishedDate>
+	  <ns1:ISBN>ABC</ns1:ISBN>
+	  <ns1:Author>ABC</ns1:Author>
+   </ns1:book>
+</ns1:addBook>
